@@ -1,8 +1,8 @@
 // let num=20;
 // console.log(num)
 // console.log(typeof num)
-// let num2='20';
-// console.log(typeof num2)
+ let num2='20';
+ console.log(typeof num2)
 
 // let cname='ashish';
 // let cnameone="ashish";
